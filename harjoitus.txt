@@ -1,1 +1,2 @@
 harjoitus tehtävä
+Tämä on eka GitHub-muutos

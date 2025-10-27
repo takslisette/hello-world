@@ -1,2 +1,3 @@
-harjoitus tehtävä
-Tämä on eka GitHub-muutos
+GitHub-harjoitus
+eka  github muutos
+tämä on pull requestin kautta lisätty rivi.
